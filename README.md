@@ -58,7 +58,8 @@ We welcome contributions from the community! Whether it’s fixing bugs, adding 
 
 
 ## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code. 📃
+
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
 
 ##  Acknowledgements
 A big thanks to the Godot community for their support and resources. Also, a shoutout to all the brave knights who will play and contribute to this project. ⚔️
